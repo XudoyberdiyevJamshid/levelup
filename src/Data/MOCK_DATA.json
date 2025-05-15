@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "first_name": "Boony",
+    "last_name": "Voss",
+    "email": "bvoss0@ucsd.edu",
+    "gender": "Male",
+    "phone": "958-188-4685"
+  },
+  {
+    "id": 2,
+    "first_name": "Jilleen",
+    "last_name": "Cormack",
+    "email": "jcormack1@patch.com",
+    "gender": "Female",
+    "phone": "220-487-9714"
+  },
+  {
+    "id": 3,
+    "first_name": "Morris",
+    "last_name": "Barefoot",
+    "email": "mbarefoot2@tuttocitta.it",
+    "gender": "Male",
+    "phone": "701-401-5328"
+  },
+  {
+    "id": 4,
+    "first_name": "Benedick",
+    "last_name": "Ahern",
+    "email": "bahern3@globo.com",
+    "gender": "Male",
+    "phone": "359-759-8831"
+  },
+  {
+    "id": 5,
+    "first_name": "Bendick",
+    "last_name": "Crabb",
+    "email": "bcrabb4@google.co.jp",
+    "gender": "Male",
+    "phone": "685-843-0997"
+  },
+  {
+    "id": 6,
+    "first_name": "Miguela",
+    "last_name": "Sheering",
+    "email": "msheering5@slate.com",
+    "gender": "Female",
+    "phone": "723-704-2503"
+  },
+  {
+    "id": 7,
+    "first_name": "Becky",
+    "last_name": "Lyndon",
+    "email": "blyndon6@plala.or.jp",
+    "gender": "Female",
+    "phone": "253-143-5816"
+  },
+  {
+    "id": 8,
+    "first_name": "Delano",
+    "last_name": "Schukert",
+    "email": "dschukert7@newsvine.com",
+    "gender": "Male",
+    "phone": "816-202-3617"
+  },
+  {
+    "id": 9,
+    "first_name": "Benni",
+    "last_name": "Queyos",
+    "email": "bqueyos8@pen.io",
+    "gender": "Female",
+    "phone": "172-820-3983"
+  },
+  {
+    "id": 10,
+    "first_name": "Obediah",
+    "last_name": "Timmins",
+    "email": "otimmins9@apache.org",
+    "gender": "Male",
+    "phone": "361-729-3844"
+  },
+  {
+    "id": 11,
+    "first_name": "Rafaelita",
+    "last_name": "Davidge",
+    "email": "rdavidgea@bravesites.com",
+    "gender": "Female",
+    "phone": "403-919-3886"
+  },
+  {
+    "id": 12,
+    "first_name": "Renaud",
+    "last_name": "Presho",
+    "email": "rpreshob@hc360.com",
+    "gender": "Male",
+    "phone": "126-680-6403"
+  },
+  {
+    "id": 13,
+    "first_name": "Robin",
+    "last_name": "Byford",
+    "email": "rbyfordc@squidoo.com",
+    "gender": "Male",
+    "phone": "285-451-2554"
+  },
+  {
+    "id": 14,
+    "first_name": "Rosita",
+    "last_name": "Skeath",
+    "email": "rskeathd@naver.com",
+    "gender": "Female",
+    "phone": "141-633-4271"
+  },
+  {
+    "id": 15,
+    "first_name": "Rabbi",
+    "last_name": "Winkell",
+    "email": "rwinkelle@ed.gov",
+    "gender": "Male",
+    "phone": "118-515-0255"
+  },
+  {
+    "id": 16,
+    "first_name": "Janelle",
+    "last_name": "Bullivant",
+    "email": "jbullivantf@hubpages.com",
+    "gender": "Female",
+    "phone": "341-729-9947"
+  }
+]
